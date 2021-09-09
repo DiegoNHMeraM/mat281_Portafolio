@@ -10,9 +10,9 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-## Portafolio Diego Mera Muñoz
-Estudiante de Magíster en Ciencias de la Ing. Civil.
-Universidad Técnica Federico Santa María
+# Portafolio Diego Mera Muñoz
+## Estudiante de Magíster en Ciencias de la Ing. Civil.
+## Universidad Técnica Federico Santa María
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
 
