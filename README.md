@@ -13,9 +13,9 @@
 ## Portafolio Diego Mera Muñoz
 Estudiante de Magíster en Ciencias de la Ing. Civil.
 
-* **Docente**: [Francisco Alfaro](francisco.alfaro.496@gmail.com )
+* **Docente**: [Francisco Alfaro](https://matematica.usm.cl/francisco-alfaro-medina/)
 
-* **Ayudantes**: [Eric Zepeda](eric.zepeda.14@sansano.usm.cl)
+* Ayudantes: Eric Zepeda
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
 
