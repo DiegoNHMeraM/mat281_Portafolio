@@ -10,7 +10,9 @@
 
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
-## Portafolio Personal
+## Portafolio Diego Mera Muñoz
+# Estudiante de Magíster en Ciencias de la Ing. Civil.
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/{GITHUB_USER}/mat281_portfolio_template/master?urlpath=lab)
 
 ### Setup
