@@ -11,7 +11,7 @@
 # MAT281 - Aplicaciones de la Matemática en la Ingeniería
 
 ## Portafolio Curso
-**Diego Mera Muñoz**
+### **Diego Mera Muñoz**
 
 Estudiante de Magíster en Ciencias de la Ing. Civil.
 
