@@ -13,9 +13,7 @@
 ## Portafolio Curso
 ### **Diego Mera Muñoz**
 
-Estudiante de Magíster en Ciencias de la Ing. Civil.
-
-**Correspondencia**: diego.mera@sansano.usm.cl
+Estudiante de Magíster en Ciencias de la Ing. Civil (diego.mera@sansano.usm.cl).
 
 * **Docente**: [Francisco Alfaro](https://matematica.usm.cl/francisco-alfaro-medina/)
 
